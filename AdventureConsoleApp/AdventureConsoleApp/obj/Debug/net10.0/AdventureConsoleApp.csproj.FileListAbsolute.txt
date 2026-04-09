@@ -1,0 +1,15 @@
+/Users/maria/RiderProjects/week-10-maryiyi/AdventureConsoleApp/AdventureConsoleApp/bin/Debug/net10.0/AdventureConsoleApp
+/Users/maria/RiderProjects/week-10-maryiyi/AdventureConsoleApp/AdventureConsoleApp/bin/Debug/net10.0/AdventureConsoleApp.deps.json
+/Users/maria/RiderProjects/week-10-maryiyi/AdventureConsoleApp/AdventureConsoleApp/bin/Debug/net10.0/AdventureConsoleApp.runtimeconfig.json
+/Users/maria/RiderProjects/week-10-maryiyi/AdventureConsoleApp/AdventureConsoleApp/bin/Debug/net10.0/AdventureConsoleApp.dll
+/Users/maria/RiderProjects/week-10-maryiyi/AdventureConsoleApp/AdventureConsoleApp/bin/Debug/net10.0/AdventureConsoleApp.pdb
+/Users/maria/RiderProjects/week-10-maryiyi/AdventureConsoleApp/AdventureConsoleApp/obj/Debug/net10.0/AdventureConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maria/RiderProjects/week-10-maryiyi/AdventureConsoleApp/AdventureConsoleApp/obj/Debug/net10.0/AdventureConsoleApp.AssemblyInfoInputs.cache
+/Users/maria/RiderProjects/week-10-maryiyi/AdventureConsoleApp/AdventureConsoleApp/obj/Debug/net10.0/AdventureConsoleApp.AssemblyInfo.cs
+/Users/maria/RiderProjects/week-10-maryiyi/AdventureConsoleApp/AdventureConsoleApp/obj/Debug/net10.0/AdventureConsoleApp.csproj.CoreCompileInputs.cache
+/Users/maria/RiderProjects/week-10-maryiyi/AdventureConsoleApp/AdventureConsoleApp/obj/Debug/net10.0/AdventureConsoleApp.sourcelink.json
+/Users/maria/RiderProjects/week-10-maryiyi/AdventureConsoleApp/AdventureConsoleApp/obj/Debug/net10.0/AdventureConsoleApp.dll
+/Users/maria/RiderProjects/week-10-maryiyi/AdventureConsoleApp/AdventureConsoleApp/obj/Debug/net10.0/refint/AdventureConsoleApp.dll
+/Users/maria/RiderProjects/week-10-maryiyi/AdventureConsoleApp/AdventureConsoleApp/obj/Debug/net10.0/AdventureConsoleApp.pdb
+/Users/maria/RiderProjects/week-10-maryiyi/AdventureConsoleApp/AdventureConsoleApp/obj/Debug/net10.0/AdventureConsoleApp.genruntimeconfig.cache
+/Users/maria/RiderProjects/week-10-maryiyi/AdventureConsoleApp/AdventureConsoleApp/obj/Debug/net10.0/ref/AdventureConsoleApp.dll

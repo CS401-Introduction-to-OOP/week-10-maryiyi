@@ -4,7 +4,8 @@ public enum CharacterClass
 {
     Druid,
     Wizard,
-    Fighter
+    Fighter,
+    Elf
 };
 public enum CharacterStatus {Active, Unactive}
 

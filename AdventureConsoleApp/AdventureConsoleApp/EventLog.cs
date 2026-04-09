@@ -18,7 +18,7 @@ public class EventLog : IEnumerable<Event>
         _events.Add(ev);
     }
 
-    public IEnumerable<Event> GetChonological()
+    public IEnumerable<Event> GetFight()
     {
         foreach (var ev in _events)
         {
