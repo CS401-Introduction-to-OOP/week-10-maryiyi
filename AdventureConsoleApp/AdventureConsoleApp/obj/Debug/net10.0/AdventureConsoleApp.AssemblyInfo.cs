@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdventureConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98292b3068512ba995aef627501d91a4d9eb8de6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09343b16b3b5c7f9a5955f149920af9f527b87c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdventureConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdventureConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

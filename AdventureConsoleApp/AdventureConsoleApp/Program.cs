@@ -40,15 +40,15 @@ foreach (var e in myLog)
 }
 var onlyExploration = myLog.Where(e => e.Type == TypeEvent.Exploration ).ToList();
 var sortedByHealth = myParty.OrderBy(c => c.Health).ToList();
-var resetHp = myParty.Select(c => c.Level == 100);
+var resetHp = myParty.Select(c => c.Level = 100);
 var howManyGamb = myLog.Count(e => e.Type == TypeEvent.Gambling );
 var maxGold = myParty.Max(c => c.Gold);
 var averageChange = myLog.Average(e => e.Change);
 var groupedByClass = myParty.GroupBy(c => c.Class);
 
-Console.WriteLine($"only exploration {onlyExploration.Select(e => e.Description)}\n" +
-                  $"sorted by health {sortedByHealth.Select(c => $"{c.Name}({c.Health}HP)")}\n" +
-                  $"reset HP {resetHp}\n" +
+Console.WriteLine($"only exploration {string.Join(",", onlyExploration.Select(e => e.Description))}\n" +
+                  $"sorted by health {string.Join(" -> ", sortedByHealth.Select(c => $"{c.Name}({c.Health}HP)"))}\n" +
+                  $"reset HP {string.Join(", ", resetHp)}\n" +
                   $"how many gambling was {howManyGamb}\n" +
                   $"max gold is {maxGold}\n" +
                   $"average change after events {averageChange}\n" +
