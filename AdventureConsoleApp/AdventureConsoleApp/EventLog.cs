@@ -18,6 +18,18 @@ public class EventLog : IEnumerable<Event>
         _events.Add(ev);
     }
 
+    public IEnumerable<Event> GetChonological()
+    {
+        foreach (var ev in _events)
+        {
+            if (ev.Type == TypeEvent.Fight)
+            {
+                yield return ev;
+            }
+        }
+    }
+    
+
     IEnumerator IEnumerable.GetEnumerator()
     {
         return GetEnumerator();
